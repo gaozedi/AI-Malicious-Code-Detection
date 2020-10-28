@@ -1,0 +1,9 @@
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\bin\Release\netstandard2.0\MLAPITestML.Model.deps.json
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\bin\Release\netstandard2.0\MLAPITestML.Model.dll
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\bin\Release\netstandard2.0\MLAPITestML.Model.pdb
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\obj\Release\netstandard2.0\MLAPITestML.Model.AssemblyInfoInputs.cache
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\obj\Release\netstandard2.0\MLAPITestML.Model.AssemblyInfo.cs
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\obj\Release\netstandard2.0\MLAPITestML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\obj\Release\netstandard2.0\MLAPITestML.Model.dll
+C:\Users\Leslie\Desktop\ML.NET\MLAPITest\MLAPITestML.Model\obj\Release\netstandard2.0\MLAPITestML.Model.pdb

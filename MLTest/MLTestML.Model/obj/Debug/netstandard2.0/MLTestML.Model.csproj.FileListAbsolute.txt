@@ -1,0 +1,10 @@
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\bin\Debug\netstandard2.0\MLTestML.Model.deps.json
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\bin\Debug\netstandard2.0\MLTestML.Model.dll
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\bin\Debug\netstandard2.0\MLTestML.Model.pdb
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\obj\Debug\netstandard2.0\MLTestML.Model.csprojAssemblyReference.cache
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\obj\Debug\netstandard2.0\MLTestML.Model.AssemblyInfoInputs.cache
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\obj\Debug\netstandard2.0\MLTestML.Model.AssemblyInfo.cs
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\obj\Debug\netstandard2.0\MLTestML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\obj\Debug\netstandard2.0\MLTestML.Model.dll
+C:\Users\Leslie\Desktop\ML.NET\MLTest\MLTestML.Model\obj\Debug\netstandard2.0\MLTestML.Model.pdb
