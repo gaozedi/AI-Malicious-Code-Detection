@@ -1,0 +1,52 @@
+Malicious	Code	Dump
+0	int a; 	FALSE
+0	int b;   	TRUE
+0	int c;	FALSE
+0	int d;	FALSE
+0	  int e;	FALSE
+0	  int f   	TRUE
+0	  int A;	TRUE
+0	  int Z;	FALSE
+0	int azasd   	FALSE
+0	int x = 0;	FALSE
+1	  while(true);	TRUE
+1	  for(;;);   	TRUE
+0	  for(i=0;i<10;i++);	FALSE
+0	 return;   	TRUE
+1	  while(a<10);	TRUE
+0	  for(i=0;i>10;i--);   	TRUE
+1	   using  	TRUE
+0	  while(a>10)	FALSE
+1	  StreamReader  	TRUE
+1	  Type type = i.GetType();	TRUE
+1	 Assembly info = typeof(int).Assembly;   	TRUE
+1	Windows.Networking	TRUE
+1	  System.IO     	TRUE
+1	  System.Net   	FALSE
+0	int x = 12345; // int is a 32-bit integer	FALSE
+0	 long y = x; // Implicit conversion to 64-bit integral type   	TRUE
+0	   short z = (short)x;	FALSE
+0	   int i = 1;	FALSE
+0	float f = i;	TRUE
+1	  int a = int.MinValue;   	FALSE
+1	string s1 = null;	TRUE
+1	  using Outer.Middle.Inner;	TRUE
+0	  object obj =x; //box the int.  	TRUE
+1	for(i=0;i<10;i--);	TRUE
+1	 SELECT * FROM products WHERE id = 10; DROP members--  	TRUE
+1	 IF (1=1) SELECT 'true' ELSE SELECT 'false'     	TRUE
+1	  SELECT * FROM Users WHERE UserId = 105 OR 1=1;  	TRUE
+1	  SELECT * FROM Users; DROP TABLE Suppliers	TRUE
+1	   SELECT * FROM Users WHERE UserId = 105; DROP TABLE Suppliers;	FALSE
+1	  DROP sampletable;--   	TRUE
+1	  DROP sampletable;#	TRUE
+1	 AND I EVEN PUT A LINK TO A HIGHLIGHTS VIDEO ON YOUTUBE	TRUE
+1	  SELECT * FROM members WHERE username = 'admin'--' AND password =	FALSE
+0	  string a;	FALSE
+0	  string b;	FALSE
+0	string xyz1 	FALSE
+0	//asdadsasd   	TRUE
+0	//jkbasdibiqwd int asd	FALSE
+0	//12basd8asdbkasd	FALSE
+0	  // asdjjqiwqdw	FALSE
+0	  File   	TRUE
