@@ -2,9 +2,9 @@
 
 > last update: 29/10/2020 by Zedi.
 
-> **this API is part of my individual project, which can accept code to be evaluated by RESTful request. **
+> **this API is part of my individual project, which accepts code to be evaluated as RESTful request. **
 >
-> **This server will run a pre-trained machine learning model to evaluate code, then return the result of weather the code is malicious with accuracy score**
+> **This server runs a pre-trained machine learning model to evaluate the code, then return the result of weather the code is malicious or not with a accuracy score**
 
 #### **Request example:**
 
